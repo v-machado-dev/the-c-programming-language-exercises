@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// Verify that : (getchar() != EOF) = 0 or 1
+// Printing the value of EOF
 
 int main(){
 
-    
-
+    int c = EOF;
+    printf("EOF value is:%d\n", c);
 }
