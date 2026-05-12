@@ -10,6 +10,8 @@ float calculate(float fahr, float celsius, int var, float lower, float upper);
 
 int main(){
 
+    // declares variables, calls function and prints a check message
+
     float fahr, celsius;
     float lower, upper;
     int var;
@@ -25,6 +27,8 @@ float calculate(float fahr, float celsius, int var, float lower, float upper){
     upper = MAX;
     var = 20;
     fahr = lower;
+
+    // stablishes a headliner, returns and prints each celsius to fahrenheit each measurement
 
     printf("Fahrenheit | Celsius\n");
 
