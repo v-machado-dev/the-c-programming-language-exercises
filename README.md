@@ -30,7 +30,8 @@ This repository contains my implementations of every exercise found in **K&R C**
 -
 
 ## 📚 Chapters
-, and Expressions | Data types, operators, type conversions |
+| 1 | A Tutorial Introduction | Hello World, variables, loops, functions |
+| 2 | Types, Operators, and Expressions | Data types, operators, type conversions |
 | 3 | Control Flow | if/else, switch, loops, break, continue |
 | 4 | Functions and Program Structure | Scope, recursion, preprocessor |
 | 5 | Pointers and Arrays | Pointer arithmetic, strings, multi-dim arrays |
