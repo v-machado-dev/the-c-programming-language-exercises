@@ -3,7 +3,7 @@
 #define IN 1
 #define OUT 0
 
-// program that prints an histogram of each frequency of input's words's lenghts
+//program that prints a histogram of word length frequencies
 
 int main(){
 
